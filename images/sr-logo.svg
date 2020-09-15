@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="46" viewBox="0 0 26 46">
+  <g id="sr-logo" transform="translate(-597 -626.5)">
+    <text id="R" transform="translate(601 664.5)" fill="#bf9595" font-size="31.99" font-family="JosefinSans-SemiBold, Josefin Sans" font-weight="600"><tspan x="0" y="0">R</tspan></text>
+    <text id="S" transform="translate(597 650.5)" fill="#73141b" font-size="31.99" font-family="JosefinSans-SemiBold, Josefin Sans" font-weight="600"><tspan x="0" y="0">S</tspan></text>
+    <path id="Intersection_1" data-name="Intersection 1" d="M11.9,17.711H10.5a3.818,3.818,0,0,0,.055-.661,2.815,2.815,0,0,0-1.072-2.239,7.391,7.391,0,0,0-.98-.683h2.757A12.361,12.361,0,0,1,14,14.415a7.37,7.37,0,0,1,.423,2.6,6.748,6.748,0,0,1-.128,1.325A4.154,4.154,0,0,0,11.9,17.711Z" transform="translate(599.495 627.083)" fill="#bf9595" stroke="#bf9595" stroke-width="0.05"/>
+  </g>
+</svg>
