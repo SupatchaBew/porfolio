@@ -111,7 +111,7 @@ button i {
   margin: 1em auto;
 }
 
-.project-info a:hover {
+.project-info a:hover, .project-info a:active {
   text-decoration: none;
   background-color: #73141B;
   color: white;
@@ -217,7 +217,7 @@ h1 {
 .my-portait img {
   opacity: 0.9;
   height: 150%;
-  margin: 0 0 0 -120px;
+  margin: 0 0 0 0;
 }
 
 .skill-lists {
@@ -226,6 +226,24 @@ h1 {
 
 .skill li {
   width: 80%
+}
+
+.about {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.info-content {
+  margin-bottom: : 5em;
+}
+
+.info-content p {
+  margin-bottom: 3em;
+}
+
+.info-content hr, .info-content h3 {
+  margin: 0.5em 0;
 }
 
 /* ======== Burger manu =========== */
